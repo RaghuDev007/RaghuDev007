@@ -2,6 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/PatilShreyas)
 
+A Mobile developer based out of India. I consider myself a pretty skilled developer specialising in Android Development using Kotlin & Java
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
 
