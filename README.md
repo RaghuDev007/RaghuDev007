@@ -1,6 +1,4 @@
-# Hi there👋! I'm [RAGHU](https://shreyaspatil.dev) 🙋‍♂️
-
-![Profile views](https://gpvc.arturio.dev/PatilShreyas)
+# Hi there👋! I'm [RAGHU](https://shreyaspatil.1dev) 🙋‍♂️
 
 A Mobile developer based out of India. I consider myself a pretty skilled developer specialising in Android Development using Kotlin & Java
 
