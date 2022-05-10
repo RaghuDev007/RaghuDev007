@@ -7,19 +7,36 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 
 ### 🎍 Welcome to my hub 👨‍💻
 
-- 👦 22-year-old ***Google Developer Expert @Android***.
-- 💼 Android Developer @ [Paytm Insider](https://insider.in)
+- 👦 24-year-old ***Google Developer Expert @Android***.
+- 💼 Android Developer
+- 👨🏻‍💻  &nbsp;Software Engineer.
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
 - 🌐 Little bit exploring Web development too.
-- ✍️ Write blogs on [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev).
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
 
+### ✨ Technologies I have used so far
 
-### 📊 Github Stats
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patilshreyas&count_private=true&show_icons=true&include_all_commits=true" alt="Shreyas Patil | Stats" />
+- Programming Languages : <br />
+   ![Kotlin](https://img.shields.io/badge/-Kotlin-eee?style=flat-square&logo=kotlin)
+   ![Java](https://img.shields.io/badge/-Java-eee?style=flat-square&logo=Java&logoColor=007396)
+   ![Dart](https://img.shields.io/badge/-Dart-eee?style=flat-square&logo=dart&logoColor=0175C2)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript)
+   ![C++](https://img.shields.io/badge/-C%2B%2B-eee?style=flat-square&logo=C%2B%2B&logoColor=00599C)
+- Development Platforms : <br />
+   ![Android](https://img.shields.io/badge/-Android-eee?style=flat-square&logo=android)
+   ![React Native](https://img.shields.io/badge/-React%20Native-eee?style=flat-square&logo=react)
+   ![Flutter](https://img.shields.io/badge/-Flutter-eee?style=flat-square&logo=flutter&logoColor=02569B)
+- IDEs : <br />
+   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-eee?style=flat-square&logo=android%20studio)
+   ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+- Tools & Others: <br />
+   ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
+   ![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)
+   ![CircleCi](https://img.shields.io/badge/-CircleCi-eee?style=flat-square&logo=circleci&logoColor=343434)
+   ![Fastlane](https://img.shields.io/badge/-Fastlane-eee?style=flat-square&logo=fastlane)
 
 ---
 
@@ -32,3 +49,5 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@PatilShreyas)
 [![Google Play](https://img.shields.io/badge/-Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/dev?id=7315706573700759915)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/shreyaspatil.dev/)
+  
+  
